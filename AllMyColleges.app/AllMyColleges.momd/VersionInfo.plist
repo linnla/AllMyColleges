@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>AllMyColleges 3</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>AllMyColleges</key>
+		<dict>
+			<key>College</key>
+			<data>
+			rStBXsqCi3LlhByvCCbae1ddPuPq5NPcT/IUND3uKV8=
+			</data>
+			<key>CollegeDetail</key>
+			<data>
+			X6kawV7j/8iRK8YwaHFVUl+agt21u2YMAoHnSEHKyNE=
+			</data>
+		</dict>
+		<key>AllMyColleges 2</key>
+		<dict>
+			<key>College</key>
+			<data>
+			rStBXsqCi3LlhByvCCbae1ddPuPq5NPcT/IUND3uKV8=
+			</data>
+			<key>CollegeDetail</key>
+			<data>
+			X6kawV7j/8iRK8YwaHFVUl+agt21u2YMAoHnSEHKyNE=
+			</data>
+			<key>State</key>
+			<data>
+			LAanHnPXJfPulzgAs+e6JtNX08n7q7TJMqJbU0vwBTM=
+			</data>
+			<key>Student</key>
+			<data>
+			ozGU5BtYiAMCZh0zN3sE2jYe5dwE3yNib9pqsHwziXg=
+			</data>
+		</dict>
+		<key>AllMyColleges 3</key>
+		<dict>
+			<key>College</key>
+			<data>
+			rStBXsqCi3LlhByvCCbae1ddPuPq5NPcT/IUND3uKV8=
+			</data>
+			<key>CollegeDetail</key>
+			<data>
+			X6kawV7j/8iRK8YwaHFVUl+agt21u2YMAoHnSEHKyNE=
+			</data>
+			<key>Settings</key>
+			<data>
+			bkTVGABdEAic4MVl4kuDmLuPvYB2msYpDQXVBK2DUzY=
+			</data>
+			<key>Student</key>
+			<data>
+			ozGU5BtYiAMCZh0zN3sE2jYe5dwE3yNib9pqsHwziXg=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
